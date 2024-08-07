@@ -86,6 +86,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Response text box: Jerry from System Engineering found and connected a failed load balancer. Mobile banking should be back up. 
   - Ticket Status: Resolved
 - Select Post Reply
-- The ticket should now be on the "closed" tab since it has been resolved.
+- The ticket should now be "closed" by Jane Doe. 
 - <img src="https://i.imgur.com/ZZZSEsA.png" alt="osTicket logo"/>
 <img src="https://i.imgur.com/QngRJg9.png" alt="osTicket logo"/>
